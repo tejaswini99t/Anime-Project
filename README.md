@@ -1,15 +1,12 @@
 ---
-editor_options: 
-  markdown: 
-    wrap: sentence
+
 ---
 
 # Anime-Project
 
 # Anime Recommendation System:
 
-This project presents an innovative anime recommendation system that employs machine learning techniques to suggest anime titles to users based on their preferences.
-Utilizing a content-based filtering approach, the system analyzes user-provided tags to recommend similar anime series or movies.
+This project presents an innovative anime recommendation system that employs machine learning techniques to suggest anime titles to users based on their preferences. Utilizing a content-based filtering approach, the system analyzes user-provided tags to recommend similar anime series or movies.
 
 ## Dataset Used:
 
@@ -31,8 +28,7 @@ This dataset provided a rich variety of information, including titles, genres, d
 
 ## Data Model:
 
-The system employs a content-based filtering data model, utilizing a TF-IDF vectorization to convert textual data from anime tags and descriptions into a feature space.
-Cosine similarity measures provide the basis for calculating the likeness between anime titles, facilitating the recommendation process.
+The system employs a content-based filtering data model, utilizing a TF-IDF vectorization to convert textual data from anime tags and descriptions into a feature space. Cosine similarity measures provide the basis for calculating the likeness between anime titles, facilitating the recommendation process.
 
 ## Data Flow:
 
