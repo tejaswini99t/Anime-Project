@@ -43,3 +43,8 @@ The system employs a content-based filtering data model, utilizing a TF-IDF vect
 **Recommendation Generation:** The system uses the trained model to predict and recommend anime titles based on a user's input tag.
 
 **User Interaction:** Users interact with the system through a simple interface, receiving personalized anime recommendations.
+
+## Key insights:
+- Implemented a content-based filtering model using TF-IDF vectorization and cosine similarity, enhancing personalized anime recommendations based on user-provided tags.
+- Successfully utilized a dataset with diverse anime information, including titles, genres, and viewer ratings, to build an accurate and responsive recommendation system.
+- Developed an interactive user interface, allowing users to receive tailored anime suggestions efficiently, improving user engagement and satisfaction.
